@@ -7,10 +7,7 @@
 *Currently focused on learning Django and React, while constantly improving my skills in web development and software engineering*
 
 🔧 **Current Projects**  
-*Currently working on two projects using React.js and Django:*
-
-- **Finance Tracking Web App:** A comprehensive tool for managing personal finances, including features like expense tracking, budgeting tools, and financial reporting.
-- **Collage Event Sharing Web App:** A platform for students to share and stay updated on college events, fostering campus engagement and community.
+*Currently working on self development*
 
 🌱 **Interests**  
 *Full Stack Web Development and everything tech*
