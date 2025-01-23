@@ -23,4 +23,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=meetrajsinh-zala&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meetrajsinh-zala&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://profile-counter.deno.dev/:meetrajsinh-zala:/count.svg" alt="Key:: Visitor's Count" />
